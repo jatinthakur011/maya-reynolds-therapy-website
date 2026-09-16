@@ -2,7 +2,7 @@
 
 A homepage redesign for a fictional therapist profile, built as a front-end development assignment. The project clones the layout and structure of an existing counseling website, then rebuilds it with a new visual identity, original copy, and a new section — using a therapist profile document as the single source of truth for all content.
 
-**Live site:** [add your Vercel link here]
+**Live site:** (https://maya-reynolds-therapy-website-three.vercel.app/)
 **Original site cloned:** [conejovalleycounseling.com/home](https://www.conejovalleycounseling.com/home)
 
 ---
