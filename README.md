@@ -1,11 +1,24 @@
 # Dr. Maya Reynolds, PsyD — Website Redesign
 
-A homepage redesign for a fictional therapist profile, built as a front-end development assignment. The project clones the layout and structure of an existing counseling website, then rebuilds it with a new visual identity, original copy, and a new section — using a therapist profile document as the single source of truth for all content.
+A homepage redesign built as the Stage 2 practical assignment for the **Front-End Development Internship at Grow My Therapy**. The task: clone the layout of an existing counseling website, then fully redesign it with a new visual theme, original copy, and a new section — using a fictional therapist's profile document as the single source of truth for all content.
 
-**Live site:** (https://maya-reynolds-therapy-website-three.vercel.app/)
+**Live site:** [maya-reynolds-therapy-website-three.vercel.app](https://maya-reynolds-therapy-website-three.vercel.app/)
 **Original site cloned:** [conejovalleycounseling.com/home](https://www.conejovalleycounseling.com/home)
 
 ---
+
+## About Grow My Therapy
+
+Grow My Therapy builds high-quality, design-forward websites and marketing systems for mental health professionals across the United States and Canada.
+
+## The assignment
+
+This project was built to satisfy the four parts of the Stage 2 practical assignment:
+
+1. **Clone the homepage** — replicate the layout, spacing, structure, and responsiveness of the reference site
+2. **Redesign with a new theme + copy** — new color palette, typography, and homepage copy written entirely from Dr. Maya Reynolds's therapist profile
+3. **Add a new "Our Office" section** — a section that doesn't exist in the original template, built around her real practice photos and profile details
+4. **Record a client-facing video walkthrough** explaining the site in plain, non-technical language
 
 ## About this project
 
